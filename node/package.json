@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbalazs92/odin.git"
+  },
+  "author": "Balazs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbalazs92/odin/issues"
+  },
+  "homepage": "https://github.com/bbalazs92/odin#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
